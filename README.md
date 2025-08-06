@@ -5,7 +5,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Downloads](https://img.shields.io/github/downloads/SEU_USUARIO/TableModalX/total?style=for-the-badge)
+![Downloads](https://img.shields.io/github/downloads/Alelourenco/TableModal_PowerBI/total?style=for-the-badge)
 
 **Visual customizado avançado para Power BI que combina tabelas interativas com modais informativos ricos**
 
@@ -61,7 +61,7 @@ TableModalX é um visual customizado revolucionário para Power BI que transform
 
 <div align="center">
 
-[![Download TableModalX](https://img.shields.io/badge/Download-TableModalX.pbiviz-2563eb?style=for-the-badge&logo=download)](https://github.com/SEU_USUARIO/TableModalX/releases/download/v1.0.0/TableModalX.pbiviz)
+[![Download TableModalX](https://img.shields.io/badge/Download-TableModalX.pbiviz-2563eb?style=for-the-badge&logo=download)](https://github.com/Alelourenco/TableModal_PowerBI/releases/download/v1.0.0/TableModalX.pbiviz)
 
 **Tamanho**: ~450KB | **Compatibilidade**: Power BI Desktop/Service/Mobile
 
@@ -249,14 +249,14 @@ Ative a opção "Habilitar Redimensionamento" nas configurações do visual, dep
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-lourencodatasciencie/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexandre.2.lourenco@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alelourenco)
 
 </div>
 
 ### **🆘 Precisa de Ajuda?**
 
-- 🐛 **Reportar Bug**: [Abra uma issue](https://github.com/SEU_USUARIO/TableModalX/issues)
-- 💡 **Sugerir Funcionalidade**: [Discussões](https://github.com/SEU_USUARIO/TableModalX/discussions)
+- 🐛 **Reportar Bug**: [Abra uma issue](https://github.com/Alelourenco/TableModal_PowerBI/issues)
+- 💡 **Sugerir Funcionalidade**: [Discussões](https://github.com/Alelourenco/TableModal_PowerBI/discussions)
 - 📧 **Suporte Direto**: alexandre.2.lourenco@outlook.com
 - 💼 **LinkedIn**: Conecte-se para discussões técnicas
 
@@ -284,37 +284,22 @@ Este projeto está licenciado sob a **Licença MIT** - consulte o arquivo [LICEN
 
 ---
 
-## 🎉 **Agradecimentos**
-
-### **🙏 Comunidade**
-Agradecimento especial à comunidade Power BI Brasil pelo feedback e testes durante o desenvolvimento.
-
-### **🧪 Testadores Beta**
-- Grupo LinkedIn Power BI Brasil
-- Fórum Microsoft Power BI
-- Usuários early adopters
-
-### **🌟 Inspiração**
-Este projeto foi inspirado pela necessidade da comunidade de ter visuais mais interativos e informativos no Power BI.
-
----
-
 <div align="center">
 
 ## **🌟 Gostou do TableModalX?**
 
 ### **Se este visual te ajudou, considere:**
 
-[![⭐ Star no GitHub](https://img.shields.io/badge/⭐_Star_no_GitHub-yellow?style=for-the-badge)](https://github.com/SEU_USUARIO/TableModalX)
-[![🔗 Compartilhar no LinkedIn](https://img.shields.io/badge/🔗_Compartilhar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/SEU_USUARIO/TableModalX)
-[![💌 Recomendar por Email](https://img.shields.io/badge/💌_Recomendar-D14836?style=for-the-badge&logo=gmail)](mailto:?subject=TableModalX%20-%20Visual%20Incrível%20para%20Power%20BI&body=Encontrei%20este%20visual%20amazing%20para%20Power%20BI:%20https://github.com/SEU_USUARIO/TableModalX)
+[![⭐ Star no GitHub](https://img.shields.io/badge/⭐_Star_no_GitHub-yellow?style=for-the-badge)](https://github.com/Alelourenco/TableModal_PowerBI)
+[![🔗 Compartilhar no LinkedIn](https://img.shields.io/badge/🔗_Compartilhar-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/Alelourenco/TableModal_PowerBI)
+[![💌 Recomendar por Email](https://img.shields.io/badge/💌_Recomendar-D14836?style=for-the-badge&logo=gmail)](mailto:?subject=TableModalX%20-%20Visual%20Incrível%20para%20Power%20BI&body=Encontrei%20este%20visual%20amazing%20para%20Power%20BI:%20https://github.com/Alelourenco/TableModal_PowerBI)
 
 ### **📈 Status do Projeto**
 
-![GitHub Stars](https://img.shields.io/github/stars/SEU_USUARIO/TableModalX?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/SEU_USUARIO/TableModalX?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/SEU_USUARIO/TableModalX)
-![GitHub Downloads](https://img.shields.io/github/downloads/SEU_USUARIO/TableModalX/total)
+![GitHub Stars](https://img.shields.io/github/stars/Alelourenco/TableModal_PowerBI?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/Alelourenco/TableModal_PowerBI?style=social)
+![GitHub Issues](https://img.shields.io/github/issues/Alelourenco/TableModal_PowerBI)
+![GitHub Downloads](https://img.shields.io/github/downloads/Alelourenco/TableModal_PowerBI/total)
 
 ---
 
