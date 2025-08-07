@@ -61,7 +61,7 @@ TableModalX é um visual customizado revolucionário para Power BI que transform
 
 <div align="center">
 
-[![Download TableModalX](https://img.shields.io/badge/Download-TableModalX.pbiviz-2563eb?style=for-the-badge&logo=download)](https://github.com/Alelourenco/TableModal_PowerBI/releases/download/v1.0.0/TableModalX.pbiviz)
+ [![Download TableModalX](https://img.shields.io/badge/Download-TableModalX.pbiviz-2563eb?style=for-the-badge&logo=download)](https://raw.githubusercontent.com/Alelourenco/TableModal_PowerBI/main/TableModalX.pbiviz)
 
 **Tamanho**: ~450KB | **Compatibilidade**: Power BI Desktop/Service/Mobile
 
